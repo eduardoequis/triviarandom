@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.caja {
+    background-color: #5f40f3;
+    color: white;
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#boton {
+    font-size: 35px;
+    padding: 20px;
+}
