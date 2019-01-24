@@ -1,5 +1,5 @@
-let estudiantes = ["maria", "jose", "Carlos", "Mati", "Ana"]
-let conceptos = ["Backend", "Front-end", "<BODY>", "<FOOTER>", "<NAV>", "<DIV>", "una clase", "un ID", "<a>", "Wireframe", "href", "HTML", "CSS", "<Title>", "<p>"] // Hay 15 preguntas.
+let estudiantes = ["Mell", "Jorge A.", "Augusto", "Tati", "Sergio", "Mario", "Ezno", "Hernán", "Nazareno", "Juan", "Germán", "Lupe"] // 12
+let conceptos = ["Backend", "Front-end", "<BODY>", "<FOOTER>", "<NAV>", "<DIV>", "una clase", "un ID", "<a>", "HTML", "<Title>", "<p>"] // 12 
 
 let nombre = document.getElementById("nombre")
 let pregunta = document.getElementById("pregunta")
